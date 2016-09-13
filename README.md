@@ -30,6 +30,7 @@ Here you can get the installer, the raw microscopic photos and a 3D model exampl
 ###Change Log
 #####Muni v1.0
 - This is the first version of Muni
+
 #####Muni v1.1
 - The generated models now saves on serialized binary files. So the models generated using previous Muni versions will not be compatible with Muni v1.1.
 - The middle button mouse can be use to move the camera around the scene
